@@ -60,6 +60,6 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=h1n4mx0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=h1n4mx0&theme=radical&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ###
